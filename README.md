@@ -17,33 +17,6 @@ View All Accounts
 Display a list of all registered bank accounts.
 Delete Account
 Permanently remove an account from the system.
-How the System Works
-The application runs in the console
-Users interact using a menu-based system
-Account data is stored using file handling
-Each account includes essential banking information such as:
-Account number
-Customer name
-Balance
-Purpose of the Project
-This project was developed to practice and demonstrate:
-C++ fundamentals
-File input/output operations
-Menu-driven program design
-Basic banking system logic
-The system can be further extended by adding features such as:
-User authentication
-Transaction history
-Interest calculation
-Database integration
-Technologies Used
-C++
-Console Application
-File Handling
-Screenshots
-Example outputs of different system operations are shown below:
-Creating a new account
-Depositing and withdrawing money
-Viewing and modifying account details
+
 Deleting accounts
 (Screenshots are included above for reference.)
